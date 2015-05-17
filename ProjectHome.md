@@ -1,0 +1,1 @@
+From Argentinean Developers, is a project to give a standalone Hardware and software solution to be used in public events.
